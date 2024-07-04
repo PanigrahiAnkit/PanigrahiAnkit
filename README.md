@@ -57,9 +57,9 @@
 </div>
 
 ## My Research Publications
-- [![Static Badge](https://img.shields.io/badge/Dipesh%20Ranjan-4A249D?style=flat&logo=github)](https://github.com/dipesh2508)
-- [![Static Badge](https://img.shields.io/badge/Dipesh%20Ranjan-4A249D?style=flat&logo=github)](https://github.com/dipesh2508)
-- [![Static Badge](https://img.shields.io/badge/Dipesh%20Ranjan-4A249D?style=flat&logo=github)](https://github.com/dipesh2508)
+- Multilingual Cross-Modal Image Synthesis with Text-Guided Generative AI [![Static Badge](https://img.shields.io/badge/🔗_Link-E90074?style=flat)](https://cict23.bmiet.net/proceedings/pdfs/CCICT2024-1sjBvpXHlRhMfe9ll1wlwn/746200a578/746200a578.pdf)
+- Advancing Food Calorie Detection with YOLO and Advanced Image Processing [![Static Badge](https://img.shields.io/badge/🔗_Link-E90074?style=flat)](https://www.ijiemr.org/public/uploads/paper/298591700318728.pdf)
+- Geospatial Landslide Prediction – Analysis & Prediction From 2018-2022 [![Static Badge](https://img.shields.io/badge/🔗_Link-E90074?style=flat)](https://www.pnrjournal.com/index.php/home/article/view/8637/11749)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=panigrahiankit&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
