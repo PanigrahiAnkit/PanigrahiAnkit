@@ -29,7 +29,7 @@
 
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
-#  Languages and Tools
+# 💻 Languages and Tools
 <div align="left>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -58,8 +58,13 @@
 
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panigrahiankit&show_icons=true&theme=radical&locale=en&layout=compact" alt="panigrahiankit" /></p>
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=panigrahiankit&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=panigrahiankit&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=panigrahiankit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panigrahiankit&show_icons=true&theme=tokyonight&locale=en" alt="panigrahiankit" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=panigrahiankit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panigrahiankit&theme=dark" alt="panigrahiankit" /></p>
+### 📛 Holopins
+[![An image of @dipesh2508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/simplyboring)](https://holopin.io/@simplyboring)
