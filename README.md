@@ -2,7 +2,18 @@
 <h3 align="center">A Final Year Computer Science Undergrad exploring the realm of Full Stack Development and Machine Learning.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panigrahiankit&label=%3C/%3E%20Profile%20views&color=97f6e4&style=plastic" alt="panigrahiankit" /> </p>
+[![](https://visitcount.itsvg.in/api?id=PanigrahiAnkit&icon=2&color=9)](https://visitcount.itsvg.in)
+
+## 🌐 Connect With Me
+[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/panigrahi_3552) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panigrahi0702/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panigrahi0702@gmail.com)
+
+## 🤓 Geeky Socials
+<a href="https://stackoverflow.com/users/18689262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18689262" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@panigrahi3552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@panigrahi3552" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankitpanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitpanigrahi" height="30" width="40" /></a>
+
+## 🧑 About Me
 
 - 🌱 I’m currently learning **Front End Development.**
 
@@ -10,21 +21,12 @@
 
 - 🤝 I’m looking for help with **Web Development and ML Projects.**
 
-- 💬 Ask me about **Research Papers, Web Development, Leadership, Machine Learning**
+- 💬 Ask me about **📜 Research Papers, 🌏 Web Development, ✌️ Leadership, ⚙️ Machine Learning**
 
-- 📫 How to reach me **panigrahi0702@gmail.com**
+- 📄 Know about my experiences [![Static Badge](https://img.shields.io/badge/My%20Resume-E68369?style=flat)](https://drive.google.com/file/d/1ou-xUhGgdxpdbxxjjSF165ROUeI-IjZk/view?usp=drive_link)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ou-xUhGgdxpdbxxjjSF165ROUeI-IjZk/view?usp=sharing](https://drive.google.com/file/d/1ou-xUhGgdxpdbxxjjSF165ROUeI-IjZk/view?usp=sharing)
+- Mentor [![Static Badge](https://img.shields.io/badge/Dipesh%20Ranjan-4A249D?style=flat&logo=github)](https://github.com/dipesh2508)
 
-- ⚡ Mentor **https://github.com/dipesh2508**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/panigrahi0702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panigrahi0702" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18689262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18689262" height="30" width="40" /></a>
-<a href="https://instagram.com/panigrahi_3552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panigrahi_3552" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@panigrahi3552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@panigrahi3552" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankitpanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitpanigrahi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
