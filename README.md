@@ -9,9 +9,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panigrahi0702@gmail.com)
 
 ## 🤓 Geeky Socials
-<a href="https://stackoverflow.com/users/18689262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18689262" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@panigrahi3552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@panigrahi3552" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankitpanigrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitpanigrahi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18689262" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18689262" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@panigrahi3552" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@panigrahi3552" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankitpanigrahi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitpanigrahi" height="30" width="40" /></a>
 
 ## 🧑 About Me
 
