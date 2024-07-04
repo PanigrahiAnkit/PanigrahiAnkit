@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Panigrahi.</h1>
 <h3 align="center">A Final Year Computer Science Undergrad exploring the realm of Full Stack Development and Machine Learning.</h3>
+<hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panigrahiankit&label=%3C/%3E%20Profile%20views&color=97f6e4&style=plastic" alt="panigrahiankit" /> </p>
 
