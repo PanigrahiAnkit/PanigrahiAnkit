@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Panigrahi.</h1>
-<h3 align="center">A Final Year Computer Science Undergrad exploring the realm of Full Stack Development and Machine Learning.</h3>
+<h3 align="center">A Final Year Computer Science Undergrad exploring the realm of Full Stack Development, DevOps and Machine Learning.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
 # <p align="center">[![](https://visitcount.itsvg.in/api?id=PanigrahiAnkit&icon=2&color=9)](https://visitcount.itsvg.in)</p>
@@ -15,13 +15,13 @@
 
 ## 🧑 About Me
 
-- 🌱 I’m currently learning **Front End Development.**
+- 🌱 I’m currently learning **DevOps.**
 
-- 👯 I’m looking to collaborate on **Web Development Projects and Research or Patents.**
+- 👯 I’m looking to collaborate on **Web Development, DevOps Projects and Research or Patents.**
 
-- 🤝 I’m looking for help with **Web Development and ML Projects.**
+- 🤝 I’m looking for help with **Web Development and DevOps Projects.**
 
-- 💬 Ask me about **📜 Research Papers, 🌏 Web Development, ✌️ Leadership, ⚙️ Machine Learning**
+- 💬 Ask me about **📜 Research Papers, 🌏 Web Development, 🧑‍💻 DevOps ✌️ Leadership, ⚙️ Machine Learning**
 
 - 📄 Know about my experiences [![Static Badge](https://img.shields.io/badge/My%20Resume-E68369?style=flat)](https://drive.google.com/file/d/1ou-xUhGgdxpdbxxjjSF165ROUeI-IjZk/view?usp=drive_link)
 
