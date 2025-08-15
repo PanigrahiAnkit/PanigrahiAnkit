@@ -31,6 +31,7 @@
 
 # 💻 Languages and Tools
 <div align="left>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="java logo" />
@@ -62,8 +63,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
 ## My Research Publications
