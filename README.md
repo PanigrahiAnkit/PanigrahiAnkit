@@ -15,13 +15,13 @@
 
 ## 🧑 About Me
 
-- 🌱 I’m currently learning **DevOps.**
+- 🌱 I’m currently learning **Java Full Stack, Spring Boot.**
 
-- 👯 I’m looking to collaborate on **Web Development, DevOps Projects and Research or Patents.**
+- 👯 I’m looking to collaborate on **Java, Spring Boot, DevOps Projects and Research or Patents.**
 
-- 🤝 I’m looking for help with **Web Development and DevOps Projects.**
+- 🤝 I’m looking for help with **Java Spring Boot, Web Development and DevOps Projects.**
 
-- 💬 Ask me about **📜 Research Papers, 🌏 Web Development, 🧑‍💻 DevOps ✌️ Leadership, ⚙️ Machine Learning**
+- 💬 Ask me about **🌿Spring Boot, 📜 Research Papers, 🌏 Web Development, 🧑‍💻 DevOps ✌️ Leadership, ⚙️ Machine Learning**
 
 - 📄 Know about my experiences [![Static Badge](https://img.shields.io/badge/My%20Resume-E68369?style=flat)](https://drive.google.com/file/d/1ou-xUhGgdxpdbxxjjSF165ROUeI-IjZk/view?usp=drive_link)
 
