@@ -2,7 +2,7 @@
 <h3 align="center">A Final Year Computer Science Undergrad exploring the realm of Full Stack Development, DevOps and Machine Learning.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
-# <p align="center">[![](https://visitcount.itsvg.in/api?id=PanigrahiAnkit&icon=2&color=9)](https://visitcount.itsvg.in)</p>
+# <p align="center"> <img src="https://komarev.com/ghpvc/?username=PanigrahiAnkit&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" /></p>
 
 ## 🌐 Connect With Me 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/panigrahi_3552) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panigrahi0702/) 
