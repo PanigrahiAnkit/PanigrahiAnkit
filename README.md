@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **🌿Spring Boot, 📜 Research Papers, 🌏 Web Development, 🧑‍💻 DevOps ✌️ Leadership, ⚙️ Machine Learning**
 
-- 📄 Know about my experiences [![Static Badge](https://img.shields.io/badge/My%20Resume-E68369?style=flat)](https://drive.google.com/file/d/1VKC0fOpWXH_gRj4Z30CAG1WtjSqxt1oi/view?usp=sharing&usp=embed_facebook)
+- 📄 Know about my experiences [![Static Badge](https://img.shields.io/badge/My%20Resume-E68369?style=flat)](https://drive.google.com/file/d/1L4QPRmD_Z9P8NeNeUnL3U8ph8e3LgMb3/view?usp=drive_link&usp=embed_facebook)
 
 - Mentor [![Static Badge](https://img.shields.io/badge/Dipesh%20Ranjan-4A249D?style=flat&logo=github)](https://github.com/dipesh2508)
 
