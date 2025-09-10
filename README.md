@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Panigrahi.</h1>
-<h3 align="center">Computer Science Undergraduate exploring the realm of Java Full Stack, Spring Boot, DevOps and Machine Learning.</h3>
+<h3 align="center">CSE Undergraduate exploring the realm of Java Full Stack, Spring Boot, DevOps and Machine Learning.</h3>
 <hr style="height:2px;border:none;color:#758694;background-color:#758694; border-radius:5px">
 
 # <p align="center"> <img src="https://komarev.com/ghpvc/?username=PanigrahiAnkit&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" /></p>
